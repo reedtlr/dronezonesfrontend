@@ -1,0 +1,12 @@
+[
+    {
+        "home": {
+            "title": "Home",
+            "image": "https://via.placeholder.com/1280x600.jpg"
+        },
+        "about": {
+            "title": "About",
+            "image": "https://via.placeholder.com/1280x600.jpg"
+        }
+    }
+]
