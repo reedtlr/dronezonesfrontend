@@ -1,4 +1,13 @@
+## DronzeZones Frontend
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Authors
+- [**Robert Cullen-Keel**](https://github.com/motoroboto)
+- [**Dexter Garner**](https://github.com/johndexteriv)
+- [**Reed Taylor**](https://github.com/reedtlr)
+- [**Thomas Tutchings**](https://github.com/tutchings)
+- [**Tom Nisbet**](https://github.com/TRNisbet)
+- [**Bennett Gould**](https://github.com/bpgould)
 
 ## Getting Started
 
@@ -32,3 +41,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+![Image1 PNG](./images/image1.jpg)
+
+![Image1 PNG](./images/image2.jpg)
+
+![Image1 PNG](./images/image3.jpg)
